@@ -1,3 +1,4 @@
 body {
-    background-image: "t-9.jpg";
+    background-image: url("t-9.jpg");
+    background-repeat: no-repeat;
 }
