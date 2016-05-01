@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="somethingforeveryone.css">
+</head>
+<body>
+<h1><center>UNTITLED PICTURES</h1>
+<p><center><i>one palm tree</i></p>
+<p><center><a href="index"><button>home</button></a></p>
+<a href="untitled-pictures"><button>untitled pictures</button></a>
+<a href="can-you-swim"><button>can you swim</button></a>
+<a href="hi"><button>hi</button></a></center>
 
+<script src="palmtree.js"></script>
+</body>
+</html>
