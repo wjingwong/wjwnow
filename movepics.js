@@ -5,7 +5,7 @@ var currentIndex = 0,
 function cycleItems() {
   var item = $('.container div').eq(currentIndex);
   items.hide();
-  item.css('display','inline-block');
+  pics.css('display','inline-block');
 }
 
 var autoSlide = setInterval(function() {
