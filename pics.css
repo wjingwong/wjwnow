@@ -3,16 +3,16 @@
   background-color: white;
   margin: 100 auto;
   text-align: center;
-  position: relative;
+  position: bottom;
 }
 .container div {
-  background-color: grey;
+  background-color: gray;
   width: 100%;
   display: inline-block;
   display: none;
 }
 .container img {
-  width: 100%;
+  width: 90%;
   height: auto;
 }
 
@@ -21,9 +21,9 @@ button {
 }
 
 .next {
-  right: 5px;
+  right: 10px;
 }
 
 .prev {
-  left: 5px;
+  left: 10px;
 }
