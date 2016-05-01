@@ -1,5 +1,5 @@
 var currentIndex = 0,
-  items = $('.container div'),
+  items = 5 ('.container div'),
   itemAmt = items.length;
 
 function cycleItems() {
