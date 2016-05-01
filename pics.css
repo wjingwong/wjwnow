@@ -1,12 +1,29 @@
-/* styling for the image wrapper  */
-#image_wrap {
-    width:700px;
-    padding:15px 0;
- 
-    text-align:center;
- 
-    background-color:#efefef;
-    border:2px solid #fff;
-    outline:1px solid #ddd;
-    -moz-ouline-radius:4px;
+.container {
+  max-width: 700px;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.container div {
+  background-color: grey;
+  width: 100%;
+  display: inline-block;
+  display: none;
+}
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  position: absolute;
+}
+
+.next {
+  right: 5px;
+}
+
+.prev {
+  left: 5px;
 }
