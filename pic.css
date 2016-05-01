@@ -1,7 +1,7 @@
 .container {
-  max-width: 700px;
+  max-width: 500px;
   background-color: white;
-  margin: 300 auto;
+  margin: 200 auto;
   text-align: center;
   position: bottom;
 }
@@ -9,7 +9,7 @@
   background-color: gray;
   width: 100%;
   display: inline-block;
-  display: inline-block;
+  display: none;
 }
 .container img {
   width: 90%;
