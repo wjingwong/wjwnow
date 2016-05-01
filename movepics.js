@@ -24,7 +24,6 @@ $('.next').click(function() {
   }
   cycleItems();
 });
-consle. log('.prev' .click)
 
 $('.prev').click(function() {
   clearInterval(autoSlide);
